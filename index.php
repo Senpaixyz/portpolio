@@ -103,7 +103,6 @@ git<!DOCTYPE html>
               <div class="col-lg-6">
                 <ul>
                   <li><i class="icofont-rounded-right"></i> <strong>Birthday:</strong> 26 December 1998</li>
-                  <li><i class="icofont-rounded-right"></i> <strong>Website:</strong> https://cerbito-jheno.herokuapp.com/</li>
                   <li><i class="icofont-rounded-right"></i> <strong>Phone:</strong> +639480258562</li>
                   <li><i class="icofont-rounded-right"></i> <strong>City:</strong> Malaban, Binan City, Laguna</li>
                 </ul>
