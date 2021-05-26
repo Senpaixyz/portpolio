@@ -242,22 +242,22 @@
             <h3 class="resume-title">Membership Certificates</h3>
             <div class="resume-item">
               <h4>Certified Member in Integrated Southern Tagalog Association of Information Technology</h4>
-              <p><img src="assets/img/certificates/isite.png" class="testimonial-img" style="width:30em;" alt=""></p>
+              <p><img src="assets/img/certificates/isite.jpg" class="testimonial-img" style="width:30em;" alt=""></p>
             </div>
           </div>
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
             <h3 class="resume-title">Achievements</h3>
             <div class="resume-item">
               <h4>Completed PHP Fullstack Web Developer Course</h4>
-              <p><img src="assets/img/certificates/php.png" class="testimonial-img" style="width:30em;" alt=""></p>
+              <p><img src="assets/img/certificates/php.jpg" class="testimonial-img" style="width:30em;" alt=""></p>
             </div>
             <div class="resume-item">
               <h4>Completed Introduction to Cyber Security</h4>
-              <p><img src="assets/img/certificates/cisco.png" class="testimonial-img" style="width:30em;" alt=""></p>
+              <p><img src="assets/img/certificates/cisco.jpg" class="testimonial-img" style="width:30em;" alt=""></p>
             </div>
             <div class="resume-item">
               <h4>Completed HTML&CSS Certification Course Beginner</h4>
-              <p><img src="assets/img/certificates/html5.png" class="testimonial-img" style="width:30em;" alt=""></p>
+              <p><img src="assets/img/certificates/html5.jpg" class="testimonial-img" style="width:30em;" alt=""></p>
             </div>
           </div>
         </div>
@@ -365,7 +365,7 @@
 
           <div class="testimonial-item" data-aos="fade-up">
             <p>
-              <img src="assets/img/certificates/researchacad.PNG" class="img-fluid"style="width:25em;"  alt="">
+              <img src="assets/img/certificates/researchacad.jpg" class="img-fluid"style="width:25em;"  alt="">
             </p>
             <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
             <h3>Research Academy</h3>
@@ -374,7 +374,7 @@
 
           <div class="testimonial-item" data-aos="fade-up" data-aos-delay="100">
             <p>
-              <img src="assets/img/certificates/trimexacad.PNG" class="img-fluid" style="width:15.5em;"  alt="">
+              <img src="assets/img/certificates/trimexacad.jpg" class="img-fluid" style="width:15.5em;"  alt="">
             </p>
             <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
             <h3>Trimex Academy</h3>
@@ -383,7 +383,7 @@
 
           <div class="testimonial-item" data-aos="fade-up" data-aos-delay="200">
             <p>
-              <img src="assets/img/certificates/filta.PNG" class="img-fluid" alt="">
+              <img src="assets/img/certificates/filta.jpg" class="img-fluid" alt="">
             </p>
             <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
             <h3>Filta</h3>
@@ -392,7 +392,7 @@
 
           <div class="testimonial-item" data-aos="fade-up" data-aos-delay="300">
             <p>
-              <img src="assets/img/certificates/kismet.PNG" class="img-fluid" alt="">
+              <img src="assets/img/certificates/kismet.jpg" class="img-fluid" alt="">
             </p>
             <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
             <h3>KiSMet</h3>
@@ -401,7 +401,7 @@
 
           <div class="testimonial-item" data-aos="fade-up" data-aos-delay="400">
             <p>
-              <img src="assets/img/certificates/sciencehub.PNG" class="img-fluid" style="width:15.5em;"   alt="">
+              <img src="assets/img/certificates/sciencehub.jpg" class="img-fluid" style="width:15.5em;"   alt="">
             </p>
             <img src="assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
             <h3>Filipino Science HUB</h3>
@@ -409,7 +409,7 @@
           </div>
           <div class="testimonial-item" data-aos="fade-up" data-aos-delay="400">
             <p>
-              <img src="assets/img/certificates/dict.PNG" class="img-fluid" style="width:15.5em;"   alt="">
+              <img src="assets/img/certificates/dict.jpg" class="img-fluid" style="width:15.5em;"   alt="">
             </p>
             <img src="assets/img/profile-img.jpg" class="testimonial-img" alt="">
             <h3>DICT</h3>
