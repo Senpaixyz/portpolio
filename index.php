@@ -242,22 +242,22 @@
             <h3 class="resume-title">Membership Certificates</h3>
             <div class="resume-item">
               <h4>Certified Member in Integrated Southern Tagalog Association of Information Technology</h4>
-              <p><img src="assets/img/certificates/isite.jpg" class="testimonial-img" style="width:30em;" alt=""></p>
+              <p><img src="assets/img/certificates/isite.jpg" class="testimonial-img" style="max-width: 100%;height:auto;"alt=""></p>
             </div>
           </div>
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
             <h3 class="resume-title">Achievements</h3>
             <div class="resume-item">
               <h4>Completed PHP Fullstack Web Developer Course</h4>
-              <p><img src="assets/img/certificates/php.jpg" class="testimonial-img" style="width:30em;" alt=""></p>
+              <p><img src="assets/img/certificates/php.jpg" class="img-fluid testimonial-img" style="max-width: 100%;height:auto;"alt=""></p>
             </div>
             <div class="resume-item">
               <h4>Completed Introduction to Cyber Security</h4>
-              <p><img src="assets/img/certificates/cisco.jpg" class="testimonial-img" style="width:30em;" alt=""></p>
+              <p><img src="assets/img/certificates/cisco.jpg" class="img-fluid testimonial-img"style="max-width: 100%;height:auto;"alt=""></p>
             </div>
             <div class="resume-item">
               <h4>Completed HTML&CSS Certification Course Beginner</h4>
-              <p><img src="assets/img/certificates/html5.jpg" class="testimonial-img" style="width:30em;" alt=""></p>
+              <p><img src="assets/img/certificates/html5.jpg" class="img-fluid testimonial-img" style="max-width: 100%;height:auto;" alt=""></p>
             </div>
           </div>
         </div>
