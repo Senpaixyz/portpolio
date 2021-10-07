@@ -38,7 +38,7 @@
     <div class="d-flex flex-column">
 
       <div class="profile">
-        <img src="assets/img/ID.jpg" alt="" class="img-fluid rounded-circle">
+        <img src="assets/img/ID.jpg" alt="" class="img-fluid rounded-circle" >
         <h1 class="text-light"><a href="index.html">Jheno S Cerbito</a></h1>
         <div class="social-links mt-3 text-center">
           <a href="https://github.com/Senpaixyz/" class="twitter"><i class="bx bxl-github"></i></a>
@@ -49,7 +49,7 @@
 
       <nav class="nav-menu">
         <ul>
-          <li class="active"><a href="index.html"><i class="bx bx-home"></i> <span>Home</span></a></li>
+          <li class="active"><a href="#hero"><i class="bx bx-home"></i> <span>Home</span></a></li>
           <li><a href="#about"><i class="bx bx-user"></i> <span>About</span></a></li>
           <li><a href="#resume"><i class="bx bx-file-blank"></i> <span>Resume</span></a></li>
           <li><a href="#portfolio"><i class="bx bx-book-content"></i> Portfolio</a></li>
@@ -77,15 +77,15 @@
 
         <div class="section-title">
           <h2>Personal Information</h2>
-          <p>
+          <p style="text-align:justify">
             Hello! first of all my personal beliefs was to learn more and never waste your time. That because your first job is the one who teach lessons, give some knowledges and hope to continue in life.
             In return I will give my best shot in the company and, be a very proficient trainee as much as I can.
           </p>
         </div>
 
         <div class="row">
-          <div class="col-lg-4" data-aos="fade-right">
-            <img src="assets/img/ID.jpg" class="img-fluid ml-5" alt="">
+          <div class="col-lg-4 col-md-12 col-sm-12" data-aos="fade-right">
+            <img src="assets/img/ID.jpg" class="img-fluid ml-5"style="max-width: 100%;height:auto;" alt="">
           </div>
           <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
             <h3>ABOUT ME</h3>
@@ -242,7 +242,7 @@
             <h3 class="resume-title">Membership Certificates</h3>
             <div class="resume-item">
               <h4>Certified Member in Integrated Southern Tagalog Association of Information Technology</h4>
-              <p><img src="assets/img/certificates/isite.jpg" class="testimonial-img" style="max-width: 100%;height:auto;"alt=""></p>
+              <p><img src="assets/img/certificates/isite.jpg" class="img-fluid testimonial-img" style="max-width: 100%;height:auto;"alt=""></p>
             </div>
           </div>
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
